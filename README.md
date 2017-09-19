@@ -1,2 +1,2 @@
 # loan.me
-Repository of my personal website
+Repository of my personal website - Loan AUBERGEON
